@@ -1,0 +1,3 @@
+Hello, these files mostly came from the System32 Folder.
+I am using these to code something on my PC, but I need to learn it. These took me awhile to copy so I hope this works.
+If it doesn't, it may be a coding error. A coding error is when I mess up with something's code. 
