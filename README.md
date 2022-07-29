@@ -1,2 +1,2 @@
 # The-Branch-Of-Coding
-Join to find out
+Joining will give you UNLIMITED premeum to my respitories
